@@ -1,4 +1,5 @@
-# heading
+# i'amith p
+### btech 3rd year
 
 
 
@@ -6,11 +7,10 @@
 
 
 ```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+print("hellow world")
 ```
 
 
-- [x] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [x] first
+- [ ] second
+- [ ] third
